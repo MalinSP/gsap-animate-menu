@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Italiana&family=Joan&family=Ubuntu:wght@400;500;700&display=swap");
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  min-height: 0;
+  min-width: 0;
+  box-sizing: border-box;
+  -webkit-backface-visibility: hidden;
+}
+body {
+  overflow-x: hidden;
+  background-color: #e1dfdd;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  cursor: none;
+}
+img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
